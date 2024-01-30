@@ -14,7 +14,7 @@
 
   <h3 align="center">"DGCBG-Net: a dual-branch network with global cross-modal interaction and boundary guidance for tumor segmentation in PET/CT images</h3>
   <p align="center">
-  <h3 The remaining source code is still undergoing code sorting and standardization. will be released later /h3>
+  The remaining source code is still undergoing code sorting and standardization. will be released later 
 
 ## Requirements
 1. os
