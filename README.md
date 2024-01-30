@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/TOPmrzw/DGCBG-Net_code/">
-    <img src="/tupian.png" alt="Logo" width="1000" height="400">
+    <img src="/tupian.png" alt="Logo" width="1000" height="290">
   </a>
 
   <h3 align="center">"DGCBG-Net: a dual-branch network with global cross-modal interaction and boundary guidance for tumor segmentation in PET/CT images</h3>
