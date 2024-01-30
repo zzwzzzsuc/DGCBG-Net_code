@@ -6,13 +6,6 @@ ProjectName and Description
 
 <!-- PROJECT SHIELDS -->
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 <!-- PROJECT LOGO -->
 <br />
 
@@ -21,43 +14,28 @@ ProjectName and Description
     <img src="/tupian.png" alt="Logo" width="1000" height="400">
   </a>
 
-  <h3 align="center">"完美的"README模板</h3>
+  <h3 align="center">"DGCBG-Net: a dual-branch network with global cross-modal interaction and boundary guidance for tumor segmentation in PET/CT images</h3>
   <p align="center">
-    一个"完美的"README模板去快速开始你的项目！
-    <br />
-    <a href="https://github.com/shaojintian/Best_README_template"><strong>探索本项目的文档 »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/shaojintian/Best_README_template">查看Demo</a>
-    ·
-    <a href="https://github.com/shaojintian/Best_README_template/issues">报告Bug</a>
-    ·
-    <a href="https://github.com/shaojintian/Best_README_template/issues">提出新特性</a>
-  </p>
 
-</p>
+## Requirements
+1. os
+2. argparse
+3. random
+4. shutil
+5. csv
+6. torch
+7. torchvision
+8. math
+9. numpy
+10. thop
+11. scipy
+12. PIL
 
-
- 本篇README.md面向开发者
- 
-## 目录
-
-- [上手指南](#上手指南)
-  - [开发前的配置要求](#开发前的配置要求)
-  - [安装步骤](#安装步骤)
-- [文件目录说明](#文件目录说明)
-- [开发的架构](#开发的架构)
-- [部署](#部署)
-- [使用到的框架](#使用到的框架)
-- [贡献者](#贡献者)
-  - [如何参与开源项目](#如何参与开源项目)
-- [版本控制](#版本控制)
-- [作者](#作者)
-- [鸣谢](#鸣谢)
-
-### 上手指南
-
-请将所有链接中的“shaojintian/Best_README_template”改为“your_github_name/your_repository”
+### Datasets
+1. Vallières M, Freeman C R, Skamene S R, et al. A radiomics model from joint FDG-PET and MRI texture features for the prediction of lung metastases in soft-tissue sarcomas of the extremities[J]. Physics in Medicine & Biology, 2015, 60(14): 5471.
+https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=A+radiomics+model+from+joint+fdg-pet+and+mri+texture+features+for+the+prediction+of+lung+metastases+in+soft-tissue+sarcomas+of+the+extremities&btnG=
+2. Oreiller V, Andrearczyk V, Jreige M, et al. Head and neck tumor segmentation in PET/CT: the HECKTOR challenge[J]. Medical image analysis, 2022, 77: 102336.
+https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Head+and+neck+tumor+segmentation+in+pet%2Fct%3A+the+hecktor+challenge&btnG=
 
 
 
