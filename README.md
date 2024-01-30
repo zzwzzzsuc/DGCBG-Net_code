@@ -1,8 +1,6 @@
 
 
-# ProjectName
-
-ProjectName and Description
+# DGCBG-Net
 
 <!-- PROJECT SHIELDS -->
 
