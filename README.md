@@ -1,6 +1,7 @@
 
 
 # DGCBG-Net
+The remaining source code is still undergoing code sorting and standardization. will be released later
 
 <!-- PROJECT SHIELDS -->
 
